@@ -2,7 +2,7 @@
 """
 Created on Wed May 22 07:45:53 2019
 
-@author: tefpo
+@author: Tomasz Posluszny <tefposluszny at gmail dot com>
 """
 
 import datetime

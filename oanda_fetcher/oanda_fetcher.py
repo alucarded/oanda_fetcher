@@ -2,7 +2,7 @@
 """
 Created on Sat Mar  2 10:39:02 2019
 
-@author: tefpo
+@author: Tomasz Posluszny <tefposluszny at gmail dot com>
 """
 
 import v20

@@ -2,7 +2,7 @@
 """
 Created on Wed May  8 18:46:18 2019
 
-@author: tefpo
+@author: Tomasz Posluszny <tefposluszny at gmail dot com>
 """
 from typing import NamedTuple
 
